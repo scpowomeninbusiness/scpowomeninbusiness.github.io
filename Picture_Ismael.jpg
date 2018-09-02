@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+        <!-- En-tête de la page -->
+<head>
+	<link rel="stylesheet" href="swbcss.css" />
+
+	<meta charset="utf-8">
+	
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+	<title> Sciences Po Women in Business </title>
+
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/font-awesome.min.css">
+
+
+
+<!-- Container element -->
+
+
+	<style type="text/css">
+		.aligned-text {
+			text-align: center;
+		}
+		img.img-100 {
+			width: 100%;
+		}
+	</style>
+	           <!-- Nom de domaine -->
+        <title> Sciences Po Women in Business </title>
+
+</head>
+
+        <!-- Body -->
+        <!-- Header -->
+        		<!-- Menu of the Header -->
+<div id=headermenu>
+	<div class="row skills">
+	<div class="col-sm-2 aligned-text"> <a href="swbhomepage.html"> <img src="logoswb.png" class="img-100"></a> </div>
+	<div class="col-sm-2 aligned-text"></div> 
+	<div class="col-sm-2 aligned-text"  id="onglet">  <a href="aboutus.html" style="color: #7E2B42" > Qui sommes-nous ? </a> </div>
+	<div class="col-sm-2 aligned-text"  id="onglet"> <a href="news.html"  style="color: #7E2B42" > Nos actions </a> </div> 
+	<div class="col-sm-2 aligned-text"  id="onglet"> <a href="///.html" style="color: #7E2B42" > Nos marraines </a> </div> 
+	<div class="col-sm-2 aligned-text"  id="onglet">  <a href="https://www.linkedin.com/in/imane-assaad-30988a107/" style="color: #7E2B42" target="_blank" title="Join my network" data-position="top" data-delay="50" data-tooltip="Join my network" class="tooltipped"> <i class="fa fa-facebook"> </i> </a> <a href="https://www.linkedin.com/in/imane-assaad-30988a107/" style="color: #7E2B42" target="_blank" title="Join my network" data-position="top" data-delay="50" data-tooltip="Join my network" class="tooltipped"> <i class="fa fa-linkedin"> </i> </a> <a href="https://twitter.com/Imanevictoria" style="color: #7E2B42" target="_blank" title="Take a look at my competitive analysis">  <i class="fa fa-twitter" aria-hidden="true"></i> </a> </div>
+</div>
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+        <!-- Actualité  -->
+<div id=notreprojet>
+	<div class="row skills">
+	<div class="col-sm-6 aligned-text"> <h2 class="Titre5"> Nos évènements </h2> </div> <br/>
+</div>
+<div class="row skills">
+	<div class="col-sm-2 aligned-text"> </div>
+	<div class="col-sm-4 aligned-text"> <h3 class="textaboutus"> Afin de blaba.</h3> </div>
+</div>
+</div>
+
+
+<br/>
+<br/>
+
+dddd
+
+        <!-- L'équipe --> 
+   <div id="actu">
+    	<div class="row skills">
+			<div class="col-md-4 col-sm-6 aligned-text">
+				<div> <img src="axa.png" class="picturenews"> </div>
+				<p> <div class="teamname"> Clara Feder </div> <div class="teamfonction"> Présidente </div> </p> </div>
+			<div class="col-md-4 col-sm-6 aligned-text">
+				<div><img src="tb.png" class="picturenews"></div>
+				<p>Clara Feder <br/> Présidente </p> </div>	
+		</div>
+
+
+<br />
+<br/>
+<br/>
+
+
+
+
+
+
+
+
+
+

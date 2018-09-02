@@ -1,0 +1,290 @@
+#headermenu
+{
+vertical-align: middle;
+position: fixed; z-index: 1;
+    height: 11%;
+    width: 100%;
+    background-color: white;
+}
+
+#onglet
+{
+	padding-top: 1%;
+	color: #fd5c63;
+    font-family: Verdana ;
+    padding-left: %;
+}
+
+/*#description1
+{
+	padding-top: 3%;
+	padding-left: 10%;
+	padding-right:10%;
+	padding-bottom: 10%;
+    background-color: #D2D7E4;
+
+}*/
+
+
+.bloc
+{
+    color: #7E2B42;
+    width: 80%;
+    height: 100%;
+    background-color: white;
+    border-radius: 2px;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 10%;
+    padding-bottom: 15%;
+}
+
+.bloc:hover 
+{
+    background-color: #7E2B42;
+    color:white;
+}
+
+
+.titreabout
+{
+    color: #7E2B42;
+    font-family: Helvetica;
+    font-size: 1.5em;
+}
+
+
+
+.about
+{
+    font-family: Helvetica;
+    font-size:1em;
+        padding-top: 10%;
+}
+
+.about:hover
+{
+   color: white;
+}
+
+
+#circle {
+    width: 200px;
+    height: 200px;
+    background: white;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    border-radius: 100px;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+    margin-left: 15%;
+}
+
+#inequality
+{
+padding-top: 5%;
+padding-bottom: 5%;
+background-color:rgba(239, 239, 239, 0.3);
+}
+
+
+.fact {
+    margin-left: 30%;
+        color: #28285c;
+        font-size: 3em;
+        font-weight: bold; 
+}
+
+.factexplanation {
+        font-size: 1em;
+padding-top: 2.5%;
+        margin-left: 3%;
+}
+
+
+.Titre2
+{
+    color: #7E2B42;
+    font-size: 3em ;
+    font-family: helvetica ; 
+    text-underline-position: left;
+}
+
+.Titre3
+{
+    color: #28285c;
+    font-size: 3em ;
+    font-family: helvetica ;
+    text-underline-position: left;
+}
+
+
+.Titre4
+{
+    color: white;
+    font-size: 1em ;
+    font-family: helvetica ;
+    text-underline-position: left;
+    text-align: center;
+}
+
+.Titre5
+{
+    color: #28285c;
+    font-size: 3em ;
+    font-family: helvetica ; 
+    text-underline-position: left;
+}
+
+#rectangle
+{
+    width: 10%;
+    height: 30px;
+    background-color: #7E2B42;
+    border-radius: 2px;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+    margin-right: auto;
+    margin-left: auto;
+    vertical-align: center;
+    padding-top: 8px;
+}
+
+
+#footer
+{
+padding-top: 2%;
+padding-bottom: 2%;
+background-color:rgba(239, 239, 239, 0.3);
+}
+
+.textaboutus
+{
+    font-size: 1em ;
+    font-family: "Messina",Arial,Helvetica,sans-serif;
+    color: #696667;
+    text-align: left;
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+
+
+.parallax { 
+    /* The image used */
+    background-image: url("notreprojet.png");
+
+    /* Set a specific height */
+    height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+#today
+{
+height: 0px;
+width: 1312px;
+background-color:rgba(0, 0, 255, 0); 
+} 
+
+.img-aboutus
+{
+height: 476px;
+width: 476px; 
+} 
+
+.teampicture
+{
+    overflow:hidden;
+    -webkit-border-radius:100px;
+    -moz-border-radius:100px;
+    border-radius:100px;
+    width:200px;
+    height:200px;
+} 
+
+.teamname
+{
+    color: #28285c;
+    font-size: 1.2em ;
+    font-family: helvetica ; 
+}
+
+.teamfonction
+{
+    color: #696667;
+    font-size: 1em ;
+    font-family: helvetica ; 
+}
+
+.actubloc
+{
+box-shadow: 0 2px 8px rgba(0,0,0,0.18); 
+height: 550px;
+padding-top: 10px;
+padding-bottom:10px;
+padding-left: 10px;
+padding-right:10px;
+}
+
+.actubloc:hover {
+
+    box-shadow: 8px 8px 12px #aaa;
+} 
+
+
+.eventtitle
+{
+    color: #7E2B42;
+    font-size: 1.6em ;
+    font-family: helvetica ; 
+    text-align:left;
+
+}
+
+.eventdate
+{
+    color: #7E2B42;
+    font-size: 0.7em ;
+    font-family: helvetica ; 
+    text-align:left;
+
+}
+
+.eventcontent
+{
+    color: #28285c;
+    font-size: 1em ;
+    font-family: helvetica ; 
+    text-align:left;
+    text-align: justify;
+
+}
+
+
+.titlearticleswiper
+{
+    color: #28285c;
+    font-size: 1em ;
+    font-family: helvetica ; 
+    text-align:left;
+
+}
+
+.datearticleswiper
+{
+    color: #7E2B42;
+    font-size: 0.75em ;
+    font-family: helvetica ; 
+    text-align:left;
+
+}
+
+
+
