@@ -2,9 +2,13 @@
 {
 vertical-align: middle;
 position: fixed; z-index: 1;
-    height: 11%;
     width: 100%;
     background-color: white;
+}
+
+#headerpicture
+{
+position: relative;
 }
 
 #onglet
@@ -12,7 +16,6 @@ position: fixed; z-index: 1;
 	padding-top: 1%;
 	color: #fd5c63;
     font-family: Verdana ;
-    padding-left: %;
 }
 
 /*#description1
