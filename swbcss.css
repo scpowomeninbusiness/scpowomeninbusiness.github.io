@@ -1,3 +1,4 @@
+
 #headermenu
 {
 vertical-align: middle;
@@ -119,7 +120,7 @@ padding-top: 2.5%;
 .Titre3
 {
     color: #28285c;
-    font-size: 3em ;
+    font-size: 2em ;
     font-family: helvetica ;
     text-underline-position: left;
 }
@@ -144,8 +145,8 @@ padding-top: 2.5%;
 
 #rectangle
 {
-    width: 10%;
-    height: 30px;
+    width: 15%;
+    height: 32px;
     background-color: #7E2B42;
     border-radius: 2px;
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
